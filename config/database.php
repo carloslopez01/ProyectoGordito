@@ -1,10 +1,9 @@
 <?php
-return array(
-    "driver"    =>"mysql",
-    "host"      =>"localhost",
-    "user"      =>"root",
-    "pass"      =>"",
-    "database"  =>"gordito",
-    "charset"   =>"utf8"
+//Datos de conexión a la base de datos
+$hostname = 'localhost';
+$database = 'gordito';
+$username = 'root';
+$password = '';
+?>
 );
 ?>
